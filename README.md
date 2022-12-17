@@ -1,10 +1,9 @@
 # Projeto-Unisul
 
 ## Escola EEB Irmã Maria Teresa.
-## Alunos: Eduarda de Souza Soares, Gustavo de Freitas Bezerra, Jeferson Márcio Espindola, Maria Eduarda Soares de Souza, Silvio Silva Araujo Junior.
-## Turmas: 304, 305, 306. (2022)
-
-## Tema: Saúde, Dengue,Parasitoses e Vacinas.                                                 
+Alunos: Eduarda de Souza Soares, Gustavo de Freitas Bezerra, Jeferson Márcio Espindola, Maria Eduarda Soares de Souza, Silvio Silva Araujo Junior.
+Turmas: 304, 305, 306. (2022)
+Tema: Saúde, Dengue,Parasitoses e Vacinas.                                                 
 
 Motivo principal para a criação do app: “Tenha controle de sua saúde geral”.
 
