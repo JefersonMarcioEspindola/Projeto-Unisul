@@ -1,22 +1,22 @@
 # Projeto-Unisul
 
-Escola EEB Irmã Maria Teresa.
-Alunos: Eduarda de Souza Soares, Gustavo de Freitas Bezerra, Jeferson Márcio Espindola, Maria Eduarda Soares de Souza, Silvio Silva Araujo Junior.
-Turmas: 304, 305, 306.
+## Escola EEB Irmã Maria Teresa.
+## Alunos: Eduarda de Souza Soares, Gustavo de Freitas Bezerra, Jeferson Márcio Espindola, Maria Eduarda Soares de Souza, Silvio Silva Araujo Junior.
+## Turmas: 304, 305, 306. (2022)
 
-Tema: Saúde, Dengue,Parasitoses e Vacinas.                                                 
+## Tema: Saúde, Dengue,Parasitoses e Vacinas.                                                 
 
 Motivo principal para a criação do app: “Tenha controle de sua saúde geral”.
 
-S.I.S - Sistema Integrado de Saúde
+## S.I.S - Sistema Integrado de Saúde
 
-Problema
+## Problema
 Ao longo dos últimos anos a tecnologia vem cada vez mais ocupando espaços no nosso dia a dia, isso inclui a área da saúde. Vimos que pessoas estavam tendo dificuldades com relação ao acesso de suas informações médicas até agendamento de consultas por outros meios de comunicação. Como alguns dos problemas podemos citar: dificuldade em agendar consultas, manuseio por pessoas idosas e acompanhamento de medicamentos periódicos. Vendo esta dificuldade geral das pessoas, visamos resolver esses problemas.
 
-Solução
+## Solução
 Criamos um aplicativo capaz de, em um só lugar, reunir informações sobre seus status em cada planos de saúde, agendar consultas, informações rápidas para conscientização da população e verificar medicamentos receitados pelos profissionais na área da saúde, conseguindo assim ter melhor controle de suas receitas médicas e planos.
 
-Nosso aplicativo contém esses principais funções:
+## Nosso aplicativo contém esses principais funções:
 
 Blog sobre a dengue e parasitoses
 Questionário rápido para parasitose
@@ -30,7 +30,7 @@ Histórico médico do usuário
 Modo familiar, sendo possível visualizar a data de consultas e informações de outros membros da família que estão logados na sua conta.
 
 
-Pretensões	
+## Pretensões	
 
 Por ainda ser um protótipo, temos várias features que ainda não puderam ser realizadas como: 
 
