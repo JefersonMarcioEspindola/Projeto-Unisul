@@ -1,0 +1,92 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+:root{
+    --cor-principal: #00FFAA;
+    --cor-segundaria: #0090BD;
+    --cor-fundo: #FFFFFF;
+}
+
+
+body {
+    margin: 0px;
+    max-height: 554px;
+}
+
+/* haeder */
+
+header {
+    padding: 1.5rem 0 2rem 0;
+    border-radius: 0 0 30px 30px;
+    display: flex;
+    justify-content: space-evenly;
+    background: linear-gradient(180deg, #00FFAA 0.01%, #0090BD 100%);
+}
+
+.usu {
+    display: flex;
+    color: #FFFFFF;
+    line-height: 15px;
+}
+
+.usu p {
+    margin-left: 10px;
+}
+
+
+.icone {
+    align-self: center;
+
+}
+
+/* corpo */
+
+#blog {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 15px 0 15px ;
+
+}
+
+.cards {
+ display: flex;
+ flex-direction: row;
+}
+
+#card1 {
+    margin-left: 10px;
+    color: #FFFFFF;
+    display: flex;
+    background: linear-gradient(180deg, #00FFAA 0.01%, #0090BD 100%);
+    border-radius: 30px;
+    padding: 5px;
+    justify-content: space-evenly;
+    width: 270px;
+    
+}
+
+#card2 {
+    position: absolute;
+ 
+    left: 305px;
+    
+    color: #FFFFFF;
+    display: flex;
+    background: linear-gradient(180deg, #00FFAA 0.01%, #0090BD 100%);
+    border-radius: 30px;
+    padding: 5px;
+    justify-content: space-evenly;
+    width: 270px;
+    
+}
+
+
+/* footer*/
+
+footer {
+    position: fixed;
+    top: 464px;
+}

@@ -1,0 +1,89 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --cor-principal: #00FFAA;
+    --cor-segundaria: #0090BD;
+    --cor-fundo: #FFFFFF;
+}
+
+.logo {
+    margin: -20px;
+}
+
+.titulo {
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+body {
+    margin: 0;
+}
+
+.total {
+    border-radius: 0 0 250px 0;
+    padding: 6rem 0 10rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(180deg, #00FFAA 0.01%, #0090BD 100%);
+}
+
+hr {
+    margin-bottom: 50px;
+    width: 107px;
+    height: 0px;
+    left: 128px;
+    top: 259px;
+    border: 1px solid #1B4868
+}
+
+
+
+input {
+    width: 290px;
+    border-radius: 50px;
+    padding: 10px 10px 10px 50px;
+    width: 230px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    border: none;
+}
+
+
+.img-card {
+    position: absolute;
+    padding: 10px 10px 10px 15px;
+}
+
+.btn-entrar {
+
+    padding: 10px 20px 10px 20px;
+    background-color: #00FFAA;
+    border-radius: 30px;
+    text-decoration: none;
+    color: #000000;
+    font-weight: 600;
+
+}
+
+.c-conta {
+    margin-top: -60px;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 14px;
+}
+.conta {
+    background: linear-gradient(180deg, #0090BD 0.01%, #00FFAA 100%);
+    font-size: 16px;
+    padding: 30px;
+    border-radius: 50%;
+}
+
