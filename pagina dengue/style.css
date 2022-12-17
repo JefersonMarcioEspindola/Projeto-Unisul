@@ -1,0 +1,103 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --cor-principal: #00FFAA;
+    --cor-segundaria: #0090BD;
+    --cor-fundo: #FFFFFF;
+}
+
+header {
+    background: rgb(0, 255, 170);
+    background: linear-gradient(0deg, rgba(0, 255, 170, 1) 0%, rgba(0, 144, 189, 1) 100%);
+    border-radius: 0 0 30px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.voltar {
+    position: absolute;
+    margin: 7px 0px 0px 7px;
+    align-self: flex-start;
+}
+
+.dengue {
+    padding-left: 10px;
+    
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.dengue-total {
+    display: flex;
+    justify-content: center;
+    padding: 30px 40px 0px 40px; 
+    /* importante */
+}
+
+.aviso {
+    background-color: #FFFFFF;
+    box-shadow: 0px 3px 0px 0px rgb(0, 0, 0, 0.2);
+    z-index: 1;
+    justify-content: center;
+    text-align: center;
+    width: 230px;
+    position: relative;
+    top: 25px;
+    padding: 10px;
+    border-radius: 29px;
+    font-weight: bold;
+}
+
+#red{
+    color: red;
+}
+
+main {
+    padding-top: 40px;
+}
+
+main img {
+    padding-left: 38px;
+    width: 80%;
+    margin-bottom: 8px;
+}
+
+.butao button {
+    background: rgb(0, 255, 170);
+    background: linear-gradient(0deg, rgba(0, 255, 170, 1) 0%, rgba(0, 144, 189, 1) 100%);
+    width: 80%;
+    border-style: none;
+    border-radius: 13px;
+    margin-left: 38px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.butao p{
+    padding-top: auto;
+    padding-bottom: auto;
+    font-weight: bold;
+}
+
+.mapa{
+    margin-bottom: 70px;
+}
+
+
+/* footer*/
+
+footer {
+    position: fixed;
+    top: 464px;
+}
