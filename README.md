@@ -7,7 +7,7 @@ Tema: Saúde, Dengue,Parasitoses e Vacinas.
 
 Motivo principal para a criação do app: “Tenha controle de sua saúde geral”.
 
-## S.I.S - Sistema Integrado de Saúde
+# S.I.S - Sistema Integrado de Saúde
 
 ## Problema
 Ao longo dos últimos anos a tecnologia vem cada vez mais ocupando espaços no nosso dia a dia, isso inclui a área da saúde. Vimos que pessoas estavam tendo dificuldades com relação ao acesso de suas informações médicas até agendamento de consultas por outros meios de comunicação. Como alguns dos problemas podemos citar: dificuldade em agendar consultas, manuseio por pessoas idosas e acompanhamento de medicamentos periódicos. Vendo esta dificuldade geral das pessoas, visamos resolver esses problemas.
